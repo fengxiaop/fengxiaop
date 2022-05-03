@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there is a boy's Github 👋
+### Best wish! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=fengxiaop&show_icons=true" alt="logo" height="160" align="center" style="margin: 5px; margin-bottom: 20px;" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengxiaop&show_icons=true&theme=tokyonight)
 
 希望自己能够在自己的生活里熠熠生辉，也希望能够帮助到你~
 希望自己顺利拿到实习offer
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengxiaop)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=fengxiaop&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
 **fengxiaop/fengxiaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
