@@ -1,8 +1,10 @@
 ### Hi there is a boy's Github 👋
 ### Best wish! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengxiaop&show_icons=true&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengxiaop&show_icons=true&theme=tokyonight)</br>
+WEB后端</br>
+Redis学习中</br>
+各种一知半解的小白</br>
 希望自己能够在自己的生活里熠熠生辉，也希望能够帮助到你~
 希望自己顺利拿到实习offer
 
