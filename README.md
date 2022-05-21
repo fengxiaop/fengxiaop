@@ -1,13 +1,12 @@
-### <p align = "center">Hi there is a boy's Github 👋</p>
-### <p align = "center">Best wish! 👋</p>
+### Hi there is a boy's Github 👋</p>
+### Best wish! 👋</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengxiaop&show_icons=true&theme=tokyonight)</br>
-<p align="center">WEB后端</br>
+<p align="left">WEB后端</br>
 Redis学习中</br>
 各种一知半解的小白</br>
 希望自己能够在自己的生活里熠熠生辉，也希望能够帮助到你~
-希望自己顺利拿到实习offer
-
+希望自己顺利拿到实习offer</p>
 <!--
 **fengxiaop/fengxiaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
