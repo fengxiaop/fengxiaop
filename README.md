@@ -5,8 +5,8 @@
 <p align="left">WEB后端</br>
 Redis学习中</br>
 各种一知半解的小白</br>
-希望自己能够在自己的生活里熠熠生辉，也希望能够帮助到你~
-希望自己顺利拿到实习offer</p>
+希望自己能够在自己的生活里熠熠生辉，也希望能够帮助到你~</br>
+实习顺利</p>
 <!--
 **fengxiaop/fengxiaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
