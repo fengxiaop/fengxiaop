@@ -2,10 +2,11 @@
 ### Best wish! 👋</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengxiaop&show_icons=true&theme=tokyonight)</br>
-<p align="left">WEB后端</br>
+<p align="left"Java后端</br>
 Redis学习中</br>
 各种一知半解的小白</br>
 希望自己能够在自己的生活里熠熠生辉，也希望能够帮助到你~</br>
+校招求职中 入有机会可以邮箱联系我~</br>
 实习顺利</p>
 <!--
 **fengxiaop/fengxiaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
