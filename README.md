@@ -6,7 +6,7 @@
 Redis学习中</br>
 各种一知半解的小白</br>
 希望自己能够在自己的生活里熠熠生辉，也希望能够帮助到你~</br>
-校招求职中 入有机会可以邮箱联系我~</br>
+校招求职中 入有机会可以邮箱联系我~非常感谢</br>
 实习顺利</p>
 <!--
 **fengxiaop/fengxiaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
